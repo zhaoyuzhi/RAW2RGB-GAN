@@ -1,6 +1,6 @@
 # Saiency Map-aided GAN for RAW2RGB Mapping
 
-The implementations and guideline for Saiency Map-aided GAN for RAW2RGB Mapping in `AIM 2019 Challege`.
+The implementations and guideline for Saiency Map-aided GAN for RAW2RGB Mapping in `ICCV 2019 Workshop in AIM 2019 Challege`.
 
 ## 1 Implementations
 
@@ -99,3 +99,11 @@ Because the memory is not enough for generate a high resolution image, we altern
 ## 3 Acknowledgement
 
 If you think this work is helpful for your research, please consider cite:
+
+@inproceedings{RAW2RGB2019report,
+  title = {Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping},
+  author = {Zhao, Yuzhi and Po, Lai-Man and Zhang, Tiantian and Liao, Zongbang and Shi, Xiang and Zhang, Yujia and Ou, Weifeng and Xian, Pengfei and Xiong, Jingjing and Zhou, Chang and Yu, Wing Yin},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  year = 2019
+}
+
