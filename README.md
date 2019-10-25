@@ -1,6 +1,6 @@
 # Saiency Map-aided GAN for RAW2RGB Mapping
 
-The PyTorch implementations and guideline for Saiency Map-aided GAN for RAW2RGB Mapping in `2019 IEEE ICCV Workshop in Advanced Image Manipulation (AIM)`.
+The PyTorch implementations and guideline for Saiency Map-aided GAN for RAW2RGB Mapping.
 
 ## 1 Implementations
 
