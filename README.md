@@ -104,7 +104,21 @@ Because the memory is not enough for generate a high resolution image, we altern
 
 <img src="./poster/poster.png" width="1000"/>
 
-## 5 Acknowledgement
+## 5 Related Work
+
+The privious phone photo enhancers:
+
+- Andrey Ignatov, Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, and Luc Van Gool. Dslr-quality photos on mobile devices with deep convolutional networks. In Proceedings of the IEEE International Conference on Computer Vision, pages 3277–3285, 2017.
+
+- Andrey Ignatov, Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, and Luc Van Gool. Wespe: weakly supervised photo enhancer for digital cameras. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pages 691–700, 2018.
+
+The conditional image generation:
+
+- Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros. Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 1125– 1134, 2017.
+
+- Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. Unpaired image-to-image translation using cycleconsistent adversarial networks. In Proceedings of the IEEE International Conference on Computer Vision, pages 2223– 2232, 2017.
+
+## 6 Acknowledgement
 
 If you have any question, please do not hesitate to contact yzzhao2-c@my.cityu.edu.hk
 
