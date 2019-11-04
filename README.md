@@ -30,11 +30,15 @@ python train.py     --multi_gpu True
                     --gpu_ids [the ids of your multi-GPUs]
 ```
 
+The training pairs are normalized to (H/2) * (W/2) * 4 from H * W * 1 in order to save as .png format. The 4 channels represent R, G, B, G, respectively. You may check the original Bayer Pattern:
+
+<img src="./images/Bayer-pattern-filter-kernel.png" width="540"/> <img src="./images/Color-online-Bayer-filter-array.png" width="300"/>
+
 The training pairs are shown like this:
 
-<img src="./images/train.png" width="1000"/>
+<img src="./images/train.png" width="600"/>
 
-The model is shown as:
+Our system architecture is shown as:
 
 <img src="./images/architecture.png" width="1000"/>
 
