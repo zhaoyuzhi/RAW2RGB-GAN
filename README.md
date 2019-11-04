@@ -32,11 +32,11 @@ python train.py     --multi_gpu True
 
 The training pairs are shown like this:
 
-<img src="./images/train.png" width="800"/>
+<img src="./images/train.png" width="1000"/>
 
 The model is shown as:
 
-<img src="./images/architecture.png" width="800"/>
+<img src="./images/architecture.png" width="1000"/>
 
 ### 1.1  Test
 
@@ -62,41 +62,45 @@ or python test_full_res2.py
 
 Some randomly selected patches are shown as:
 
-<img src="./images/patch.png" width="800"/>
+<img src="./images/patch.png" width="1000"/>
 
-### 2 Comparison with Pix2Pix
+## 2 Comparison with Pix2Pix
 
 We have trained a Pix2Pix framework using same settings.
 
 Because both systems are trained only with L1 loss at first stage, the generated samples are obviously more blurry than second stage. There is artifact in the images produced by Pix2Pix due to Batch Normalization. Moreover, we show the results produced by proposed architecture trained only with L1 loss for 40 epochs. Note that, our proposed system are optimized by whole objectives for last 30 epochs. It demonstrates that adversarial training and perceptual loss indeed enhance visual quality.
 
-<img src="./images/val.png" width="800"/>
+<img src="./images/val.png" width="1000"/>
 
-### 3 Full resolution results
+## 3 Full resolution results
 
 Because the memory is not enough for generate a high resolution image, we alternatively generate patch-by-patch.
 
-<img src="./images/1.png" width="800"/>
+<img src="./images/1.png" width="1000"/>
 
-<img src="./images/2.png" width="800"/>
+<img src="./images/2.png" width="1000"/>
 
-<img src="./images/3.png" width="800"/>
+<img src="./images/3.png" width="1000"/>
 
-<img src="./images/4.png" width="800"/>
+<img src="./images/4.png" width="1000"/>
 
-<img src="./images/5.png" width="800"/>
+<img src="./images/5.png" width="1000"/>
 
-<img src="./images/6.png" width="800"/>
+<img src="./images/6.png" width="1000"/>
 
-<img src="./images/7.png" width="800"/>
+<img src="./images/7.png" width="1000"/>
 
-<img src="./images/8.png" width="800"/>
+<img src="./images/8.png" width="1000"/>
 
-<img src="./images/9.png" width="800"/>
+<img src="./images/9.png" width="1000"/>
 
-<img src="./images/10.png" width="800"/>
+<img src="./images/10.png" width="1000"/>
 
-## 4 Acknowledgement
+## 4 Poster
+
+<img src="./poster/poster.png" width="1000"/>
+
+## 5 Acknowledgement
 
 If you have any question, please do not hesitate to contact yzzhao2-c@my.cityu.edu.hk
 
