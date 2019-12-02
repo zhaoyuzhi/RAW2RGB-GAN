@@ -42,7 +42,7 @@ Our system architecture is shown as:
 
 <img src="./images/architecture.png" width="1000"/>
 
-### 1.1  Test
+### 1.2  Test
 
 At testing phase, please create a folder first if the folder is not exist.
 
