@@ -126,9 +126,9 @@ If you find this code useful to your research, please consider citing:
 
 ```
 @inproceedings{zhao2019saliency,
-  title = {Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping},
-  author = {Zhao, Yuzhi and Po, Lai-Man and Zhang, Tiantian and Liao, Zongbang and Shi, Xiang and Zhang, Yujia and Ou, Weifeng and Xian, Pengfei and Xiong, Jingjing and Zhou, Chang and Yu, Wing Yin},
-  booktitle = {Proceedings of the IEEE International Conference on Computer Vision Workshops},
-  year = 2019
+  title={Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping},
+  author={Zhao, Yuzhi and Po, Lai-Man and Zhang, Tiantian and Liao, Zongbang and Shi, Xiang and Zhang, Yujia and Ou, Weifeng and Xian, Pengfei and Xiong, Jingjing and Zhou, Chang and Yu, Wing Yin},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  year={2019}
 }
 ```
