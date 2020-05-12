@@ -118,7 +118,7 @@ The conditional image generation:
 
 - Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. Unpaired image-to-image translation using cycleconsistent adversarial networks. In Proceedings of the IEEE International Conference on Computer Vision, pages 2223– 2232, 2017.
 
-## 6 Acknowledgement
+## 6 Reference
 
 If you have any question, please do not hesitate to contact yzzhao2-c@my.cityu.edu.hk
 
