@@ -134,3 +134,15 @@ If you find this code useful to your research, please consider citing:
   organization={IEEE}
 }
 ```
+
+An extention of this work can be found at: https://github.com/zhaoyuzhi/Semantic-Colorization-GAN
+
+```bash
+@article{zhao2020scgan,
+  title={SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network},
+  author={Zhao, Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and Abbas Ur Rehman, Yasar},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2020},
+  publisher={IEEE}
+}
+```
