@@ -46,7 +46,7 @@ Our system architecture is shown as:
 
 At testing phase, please create a folder first if the folder is not exist.
 
-Please download the pre-trained [model](https://portland-my.sharepoint.com/:u:/g/personal/yzzhao2-c_ad_cityu_edu_hk/EQw2dl2a2VBMmGpgpK7oBDYBcAnVitgCrhUyORRUcqW4aQ?e=iWsk3c) first.
+Please download the pre-trained [model](https://portland-my.sharepoint.com/:u:/g/personal/yzzhao2-c_my_cityu_edu_hk/EfDp5EqW-RtLj6Z-FsxLEp0Bjz0HAgBWJyD2Q3rnJBRnXA?e=HfmfPd) first.
 
 For small image patches:
 ```bash
